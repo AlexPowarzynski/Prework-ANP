@@ -1,0 +1,11 @@
+Changes to html file:
+1: "Boo The Dog Fan Page!" didn't have <h1></h1>
+2: Made "Read more at..." it's own paragraph
+3: Line 46 the link didn't work correctly no href=""
+4: Lines 78-82 - made them a numbered list
+5: Lines 94-96 - correctly assigned the function for the button
+6: Line 119 - relabeled the source file so the script would work properly
+
+Changes to Javascript:
+1: Line 6 - Put quotation marks where needed so that it would only spit out one fact per click instead of the whole thing
+2: Put quotation marks around the colors between lines 8 and 17

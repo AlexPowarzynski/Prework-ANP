@@ -1,0 +1,47 @@
+h1, .center {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: 20pt
+}
+
+.tiny {
+    font-size: 8pt
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font {
+    font-style: oblique
+}
+
+.bob {
+    font-size: 25pt;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: green;
+}
+
+#styledImage {
+    border-style: solid;
+    border-width: 15px;
+    border-color: orange;
+}

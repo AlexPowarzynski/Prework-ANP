@@ -1,0 +1,50 @@
+body {
+    background-color: #02902E;
+    background-image: url("giphy.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: green;
+    border: 1px solid;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+img {
+    display: block;
+    height: 50%;
+    width: 50%;
+    border: 1px solid #021a40;
+    
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    border: 1px solid;
+    color: green;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+p, li {
+    color: green;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+iframe {
+    border: 1px solid
+}
